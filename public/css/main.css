@@ -1,0 +1,67 @@
+/* Start Styles */
+
+
+/* Logout-form */
+.logout-form {
+    display: none;
+}
+
+/* Footer Box */
+.footer {
+    height: 150px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    background-color: #2a3344;
+}
+
+/* News Cards */
+.newest-post-card {
+    background-color: #3059b3;
+    width: 49%;
+    height: 300px;
+    margin: .25%;
+    padding: 2px;
+}
+
+.newest-post-card-body {
+    height: 200px;
+    overflow: hidden;
+}
+
+.most-visited-card {
+    background-color: #9929f5;
+    width: 49%;
+    height: 200px;
+    margin: .25%;
+    padding: 2px;
+}
+
+.most-visited-card-body {
+    height: 100px;
+    overflow: hidden;
+}
+
+.category-card {
+    background-color: #3e5279;
+    height: 200px;
+}
+
+.category-card-body {
+    height: 100px;
+    overflow: hidden;
+}
+
+/* Article page */
+.best-space {
+    margin-top: 75px;
+}
+
+/* Admin Card */
+.admin-card {
+    height: 300px;
+}
+
+.admin-card-body {
+    height: 200px;
+}
